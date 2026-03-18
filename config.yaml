@@ -1,0 +1,7 @@
+data:
+  raw_path: data/raw/
+  processed_path: data/processed/
+
+model:
+  val_size: 0.2
+  random_state: 42
