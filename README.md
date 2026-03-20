@@ -108,27 +108,8 @@ Classification results:
 
    macro avg     0.7251    0.8437    0.7685     98878
 
-           0     0.9822    0.9436    0.9625     92692
-           1     0.4681    0.7438    0.5746      6186
 
-    accuracy                         0.9311     98878
-
-   macro avg     0.7251    0.8437    0.7685     98878
-           1     0.4681    0.7438    0.5746      6186
-
-    accuracy                         0.9311     98878
-
-   macro avg     0.7251    0.8437    0.7685     98878
-
-    accuracy                         0.9311     98878
-
-   macro avg     0.7251    0.8437    0.7685     98878
-
-    accuracy                         0.9311     98878
-
-   macro avg     0.7251    0.8437    0.7685     98878
-
-weighted avg     0.9500    0.9311    0.9382     98878
+   weighted avg     0.9500    0.9311    0.9382     98878
 
 ### Feature engineering impact for Logistic Regression:
 
@@ -174,10 +155,6 @@ Feature engineering impact for Logistic Regression:
 - F1 change       : 0.008611051467471709
 
 - ROC-AUC change  : 0.0023141382375994057
-
-### Model comparison on engineered features:
-
-- Logistic Regression F1: 0.4448566474454615
 
 ### Model comparison on engineered features:
 
