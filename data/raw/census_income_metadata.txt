@@ -40,7 +40,7 @@
 | full or part time employment stat		AWKSTAT
 | capital gains					CAPGAIN
 | capital losses				CAPLOSS
-| divdends from stocks				DIVVAL
+| dividends from stocks				DIVVAL
 | federal income tax liability			FEDTAX
 | tax filer status				FILESTAT
 | region of previous residence			GRINREG
