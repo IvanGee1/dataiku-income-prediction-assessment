@@ -28,7 +28,7 @@ The same can be done for the other 2 files as src/preprocessing.py and src/featu
 The follwoing in the output of running the train.py file :
 
 
-Logistic Regression - processed data
+### Logistic Regression - processed data
 
 Number of input features: 36
 
@@ -56,7 +56,7 @@ Classification results:
 
 weighted avg     0.9476    0.8560    0.8873     98878
 
-Logistic Regression - processed and feature engineered
+### Logistic Regression - processed and feature engineered
 
 Number of input features: 43
 
@@ -83,7 +83,7 @@ Classification results:
 
 weighted avg     0.9482    0.8608    0.8907     98878
 
-Random Forest - processed data and feature engineered
+### Random Forest - processed data and feature engineered
 
 Number of input features: 43
 
@@ -130,7 +130,7 @@ Classification results:
 
 weighted avg     0.9500    0.9311    0.9382     98878
 
-Feature engineering impact for Logistic Regression:
+### Feature engineering impact for Logistic Regression:
 
 - Input features: 36 -> 43
 
@@ -145,7 +145,7 @@ Feature engineering impact for Logistic Regression:
 - ROC-AUC change  : 0.0023141382375994057
 
 
-Model comparison on engineered features:
+### Model comparison on engineered features:
 
 - Logistic Regression F1: 0.4448566474454615
 
@@ -163,7 +163,7 @@ Feature engineering impact for Logistic Regression:
 
 - ROC-AUC change  : 0.0023141382375994057
 
-Model comparison on engineered features:
+### Model comparison on engineered features:
 
 - Logistic Regression F1: 0.4448566474454615
 
@@ -175,11 +175,11 @@ Model comparison on engineered features:
 
 - ROC-AUC change  : 0.0023141382375994057
 
-Model comparison on engineered features:
+### Model comparison on engineered features:
 
 - Logistic Regression F1: 0.4448566474454615
 
-Model comparison on engineered features:
+### Model comparison on engineered features:
 
 - Logistic Regression F1: 0.4448566474454615
 
@@ -195,7 +195,7 @@ Model comparison on engineered features:
 
 - ROC-AUC diff  : 0.0014606577350428918
 
-Top 10 Random Forest features:
+### Top 10 Random Forest features:
 
 - occupation code                    0.125392
 
